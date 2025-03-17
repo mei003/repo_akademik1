@@ -11,6 +11,8 @@
     <h6>NIM: 33333</h6>
     <h6>NAMA: mei</h6>
     <h6>KETUA KELAS</h6>
+    <h6>Nama : Riki Manik</h6>h6>
+    <h6>NIM : 23110002</h6>
     <a href="index.php">Kembali</a>
 </body>
 </html>
